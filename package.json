@@ -1,0 +1,14 @@
+{
+    "name": "eco-browserify"
+  , "description": "eco browserify plugin"
+  , "version": "0.0.1"
+  , "homepage": "https://github.com/aki77/eco-browserify"
+  , "author": "aki77 (https://github.com/aki77)"
+  , "repository": {"type": "git", "url": "git://github.com/aki77/eco-browserify.git"}
+  , "main": "index.js"
+  , "engines": {"node": ">= 0.4.x"}
+  , "keywords": ["browserify", "plugin", "browser", "eco"]
+  , "dependencies": {
+      "eco": ">= 0.0.1"
+  }
+}
