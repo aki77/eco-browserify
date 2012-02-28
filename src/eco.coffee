@@ -8,4 +8,4 @@ eco = () ->
       "module.exports = #{precompile(body)}"
 
 module.exports = eco()
-module.exports.plugin = eco
+module.exports.eco = eco
